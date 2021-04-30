@@ -5,7 +5,7 @@ using Flux: @epochs
 using Statistics
 using MLDatasets
 using BenchmarkTools
-
+#changes
 
 #Load mnist dataset
 train_set, train_labels = MLDatasets.MNIST.traindata(Float32)
